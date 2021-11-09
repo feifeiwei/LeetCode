@@ -51,7 +51,6 @@ public:
 
 int main(){
 
-
     Solution s;
     ListNode *l1 = makeLinkedList({2,4,3});
     ListNode *l2 = makeLinkedList({5,6,4});
