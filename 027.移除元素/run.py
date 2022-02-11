@@ -1,38 +1,34 @@
 #!python3
-# Definition for singly-linked list.
+
+
 class Solution(object):
-    def removeDuplicates(self, nums):
+    def removeElement(self, nums, val):
         """
         :type nums: List[int]
+        :type val: int
         :rtype: int
         """
+        ins = 0
 
-        if len(nums)==0:
-            return 0
+        for i in range(len(nums)):
+
+            if nums[i] != val:
+                nums[ins] = nums[i]
+                ins += 1
 
 
-
-        slow = 0
-
-        for i in range(1, len(nums)):
-            if nums[i] != nums[slow]:
-                slow += 1
-                nums[slow] = nums[i]
-
-        return slow + 1
+        return ins
 
 
 
 
 if __name__=="__main__":
-    #输入：nums = [0,0,1,1,1,2,2,3,3,4]
-    #输出：5, nums = [0,1,2,3,4]
-
-    nums = [0,0,1,1,1,2,2,3,3,4]
+    nums = [0,1,2,2,3,0,4,2]
+    val = 2
 
     run = Solution()
 
-    print(run.removeDuplicates(nums))
+    print(run.removeElement(nums, val))
 
     print(nums)
 

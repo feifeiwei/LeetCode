@@ -8,37 +8,31 @@
 import Foundation
 
 class Solution {
-    func removeDuplicates(_ nums: inout [Int]) -> Int {
+    func removeElement(_ nums: inout [Int], _ val: Int) -> Int {
 
-        if nums.count==0{
-            return 0
-        }
-        
-        var slow = 0
-        
-        for fast in 1..<nums.count{
-            if nums[slow] != nums[fast]{
-                slow += 1
-                nums[slow] = nums[fast]
+        var ins=0
+        for i in 0..<nums.count{
+            if nums[i] != val{
+                nums[ins] = nums[i]
+                ins += 1
             }
+            
         }
         
-        return slow+1
-        
-        
+        return ins
     }
 }
 
-var nums:[Int] = [0,0,1,1,1,2,2,3,3,4]
+
+
+var nums = [0,1,2,2,3,0,4,2]
+let val = 2
+
 let run = Solution()
-let res = run.removeDuplicates(&nums)
+let res = run.removeElement(&nums, val)
 
-print("res: ", res)
-for i in 0..<res{
-    print(nums[i])
-}
-
-
+print(res)
+print(nums)
 
 
 
