@@ -69,8 +69,8 @@ int main()
     cout <<"\n";
     
     Solution s;
-    l1 = s.deleteDuplicates(l1);
-    printListNode(l1);
+    ListNode* res = s.deleteDuplicates(l1);
+    printListNode(res);
     
     cout << endl;
  
