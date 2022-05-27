@@ -13,6 +13,7 @@
 |7|[整数反转](https://leetcode.cn/problems/reverse-integer)|[C++](007.整数反转/run.cpp) [Python][Swift]|[Note](007.整数反转/README.md)|Medium|
 |9|[回文数](https://leetcode-cn.com/problems/palindrome-number)|[C++](009.回文数/run.cpp) [Python] [Swift]|[Note](009.回文数/README.md)|Easy|
 |11|[盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/)|[C++](011.盛最多水的容器/run.cpp) [Python] [Swift]|[Note](011.盛最多水的容器/README.md)|Medium|
+|14|[最长公共前缀](https://leetcode.cn/problems/longest-common-prefix)|[C++](014.最长公共前缀/run.cpp)[Python][Swift]|[Note](014.最长公共前缀/README.md)|Easy|
 |19|[删除链表的倒数第N个结点](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)|[C++](019.删除链表的倒数第N个结点/run.cpp) [Python] [Swift]|[Note](019.删除链表的倒数第N个结点/README.md)|Medium|
 |21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists)|[C++](021.合并两个有序链表/run.cpp) [Python] [Swift]|[Note](021.合并两个有序链表/README.md)|Easy|
 |24|[两两交换链表中的节点](https://leetcode-cn.com/problems/merge-two-sorted-lists)|[C++](024.两两交换链表中的节点/run.cpp) [Python] [Swift]|[Note](024.两两交换链表中的节点/README.md)|Medium|
