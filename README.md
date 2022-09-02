@@ -27,6 +27,7 @@
 |35|[搜索插入位置](https://leetcode.cn/problems/search-insert-position/)|[C++](035.搜索插入位置/run.cpp) [Python](035.搜索插入位置/run.py) [Swift]|[Note](035.搜索插入位置/README.md)|Easy|
 |36|[有效的数独](https://leetcode.cn/problems/valid-sudoku/)|[C++](036.有效的数独/run.cpp) [Python] [Swift]|[Note](035.搜索插入位置/README.md)|Medium|
 |83|[删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list)|[C++](083.删除排序链表中的重复元素/run.cpp) [Python] [Swift]|[Note](083.删除排序链表中的重复元素/README.md)|Easy|
+|169|[多数元素](https://leetcode.cn/problems/majority-element)|[C++](169.多数元素/run.cpp) [Python] [Swift]|[Note](169.多数元素/README.md)|Easy|
 |206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list)|[C++](083.删除排序链表中的重复元素/run.cpp) [Python] [Swift]|[Note](206.反转链表/README.md)|Easy|
 |258|[各位相加](https://leetcode.cn/problems/add-digits/)|[C++](258.各位相加/run.cpp) [Python] [Swift]|[Note](258.各位相加/README.md)|Easy|
 |443|[压缩字符串](https://leetcode.cn/problems/string-compression/)|[C++](443.压缩字符串/run.cpp) [Python] [Swift]|[Note](443.压缩字符串/README.md)|Medium|
