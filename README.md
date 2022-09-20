@@ -26,6 +26,7 @@
 |28|[实现strStr](https://leetcode-cn.com/problems/remove-element)|[C++](028.实现strStr/run.cpp) [Python](028.实现strStr/run.py) [Swift]|[Note](028.实现strStr/README.md)|Easy|
 |35|[搜索插入位置](https://leetcode.cn/problems/search-insert-position/)|[C++](035.搜索插入位置/run.cpp) [Python](035.搜索插入位置/run.py) [Swift]|[Note](035.搜索插入位置/README.md)|Easy|
 |36|[有效的数独](https://leetcode.cn/problems/valid-sudoku/)|[C++](036.有效的数独/run.cpp) [Python] [Swift]|[Note](035.搜索插入位置/README.md)|Medium|
+|58|[最后一个单词的长度](https://leetcode.cn/problems/length-of-last-word/)|[C++](058.最后一个单词的长度/run.cpp) [Python] [Swift]|[Note](058.最后一个单词的长度/README.md)|Easy|
 |83|[删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list)|[C++](083.删除排序链表中的重复元素/run.cpp) [Python] [Swift]|[Note](083.删除排序链表中的重复元素/README.md)|Easy|
 |169|[多数元素](https://leetcode.cn/problems/majority-element)|[C++](169.多数元素/run.cpp) [Python] [Swift]|[Note](169.多数元素/README.md)|Easy|
 |206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list)|[C++](083.删除排序链表中的重复元素/run.cpp) [Python] [Swift]|[Note](206.反转链表/README.md)|Easy|
