@@ -20,6 +20,7 @@
 |19|[删除链表的倒数第N个结点](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)|[C++](019.删除链表的倒数第N个结点/run.cpp) [Python] [Swift]|[Note](019.删除链表的倒数第N个结点/README.md)|Medium|
 |20|[有效的括号](https://leetcode.cn/problems/valid-parentheses/)|[C++](020.有效的括号/run.cpp) [Python] [Swift]|[Note](021.合并两个有序链表/README.md)|Easy|
 |21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists)|[C++](021.合并两个有序链表/run.cpp) [Python] [Swift]|[Note](021.合并两个有序链表/README.md)|Easy|
+|22|[括号生成](https://leetcode.cn/problems/generate-parentheses/)|[C++](022.括号生成/run.cpp) [Python] [Swift]|[Note](022.括号生成/README.md)|Medium|
 |24|[两两交换链表中的节点](https://leetcode-cn.com/problems/merge-two-sorted-lists)|[C++](024.两两交换链表中的节点/run.cpp) [Python] [Swift]|[Note](024.两两交换链表中的节点/README.md)|Medium|
 |26|[删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array)|[C++](026.删除有序数组中的重复项/run.cpp) [Python](026.删除有序数组中的重复项/run.py) [Swift](026.删除有序数组中的重复项/run.swift)|[Note](026.删除有序数组中的重复项/README.md)|Easy|
 |27|[移除元素](https://leetcode-cn.com/problems/remove-element)|[C++](027.移除元素/run.cpp) [Python](027.移除元素/run.py) [Swift](027.移除元素/run.swift)|[Note](027.移除元素/README.md)|Easy|
