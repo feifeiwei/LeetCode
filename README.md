@@ -27,6 +27,7 @@
 |28|[实现strStr](https://leetcode-cn.com/problems/remove-element)|[C++](028.实现strStr/run.cpp) [Python](028.实现strStr/run.py) [Swift]|[Note](028.实现strStr/README.md)|Easy|
 |35|[搜索插入位置](https://leetcode.cn/problems/search-insert-position/)|[C++](035.搜索插入位置/run.cpp) [Python](035.搜索插入位置/run.py) [Swift]|[Note](035.搜索插入位置/README.md)|Easy|
 |36|[有效的数独](https://leetcode.cn/problems/valid-sudoku/)|[C++](036.有效的数独/run.cpp) [Python] [Swift]|[Note](035.搜索插入位置/README.md)|Medium|
+|43|[字符串相乘](https://leetcode.cn/problems/multiply-strings/description/)|[C++](043.字符串相乘/run.cpp) [Python] [Swift]|[Note](043.字符串相乘/README.md)|Medium|
 |48|[旋转图像](https://leetcode.cn/problems/rotate-image/)|[C++](036.旋转图像/run.cpp) [Python] [Swift]|[Note](048.旋转图像/README.md)|Medium|
 |58|[最后一个单词的长度](https://leetcode.cn/problems/length-of-last-word/)|[C++](058.最后一个单词的长度/run.cpp) [Python] [Swift]|[Note](058.最后一个单词的长度/README.md)|Easy|
 |73|[矩阵置零](https://leetcode.cn/problems/set-matrix-zeroes/)|[C++](073.矩阵置零/run.cpp) [Python] [Swift]|[Note](073.矩阵置零/README.md)|Medium|
