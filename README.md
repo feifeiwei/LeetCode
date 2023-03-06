@@ -29,8 +29,10 @@
 |36|[有效的数独](https://leetcode.cn/problems/valid-sudoku/)|[C++](036.有效的数独/run.cpp) [Python] [Swift]|[Note](035.搜索插入位置/README.md)|Medium|
 |39|[组合总和](https://leetcode.cn/problems/combination-sum/description/)|[C++](039.组合总和/run.cpp) [Python] [Swift]|[Note](039.组合总和/README.md)|Medium|
 |43|[字符串相乘](https://leetcode.cn/problems/multiply-strings/description/)|[C++](043.字符串相乘/run.cpp) [Python] [Swift]|[Note](043.字符串相乘/README.md)|Medium|
+|45|[跳跃游戏2](https://leetcode.cn/problems/jump-game-ii/)|[C++](045.跳跃游戏2/run.cpp) [Python] [Swift]|[Note](039.组合总和/README.md)|Medium|
 |48|[旋转图像](https://leetcode.cn/problems/rotate-image/)|[C++](036.旋转图像/run.cpp) [Python] [Swift]|[Note](048.旋转图像/README.md)|Medium|
 |58|[最后一个单词的长度](https://leetcode.cn/problems/length-of-last-word/)|[C++](058.最后一个单词的长度/run.cpp) [Python] [Swift]|[Note](058.最后一个单词的长度/README.md)|Easy|
+|67|[二进制求和](https://leetcode.cn/problems/add-binary/)|[C++](067.二进制求和/run.cpp) [Python] [Swift]|[Note](067.二进制求和/README.md)|Easy|
 |73|[矩阵置零](https://leetcode.cn/problems/set-matrix-zeroes/)|[C++](073.矩阵置零/run.cpp) [Python] [Swift]|[Note](073.矩阵置零/README.md)|Medium|
 |83|[删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list)|[C++](083.删除排序链表中的重复元素/run.cpp) [Python] [Swift]|[Note](083.删除排序链表中的重复元素/README.md)|Easy|
 |169|[多数元素](https://leetcode.cn/problems/majority-element)|[C++](169.多数元素/run.cpp) [Python] [Swift]|[Note](169.多数元素/README.md)|Easy|
